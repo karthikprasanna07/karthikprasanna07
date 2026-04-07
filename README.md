@@ -50,16 +50,6 @@
 
 ---
 
-## 🎥 Coding Vibes (GIF Section)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/karthik-prasanna7  
