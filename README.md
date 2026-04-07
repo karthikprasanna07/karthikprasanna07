@@ -1,12 +1,25 @@
-# 👋 Hi, I'm Karthik Prasanna
+<table>
+<tr>
+<td width="55%">
 
-💻 Java & Spring Boot Enthusiast  
-🎯 Passionate about building scalable APIs and solving real-world problems  
-📍 Tamil Nadu, India  
+## 👋 Hi, I'm Karthik Prasanna
 
----
+💻 Java & Spring Boot Enthusiast   
 
-## 🛠️ Tech Stack
+- 🚀 Building scalable REST APIs  
+- 💬 Ask me about **Java, Spring Boot, MySQL**  
+- 📫 Reach me: pkarthikprasanna7@gmail.com  
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
