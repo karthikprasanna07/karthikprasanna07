@@ -1,59 +1,69 @@
-<div align="center">
+<table>
+<tr>
+<td width="55%">
 
-# hey, I'm Karthik 👋
+## 👋 Hi, I'm Karthik Prasanna
 
-*final year CS student · building things with Java & Spring Boot*
+💻 Java & Spring Boot Enthusiast   
 
-</div>
+- 🚀 Building scalable REST APIs  
+- 💬 Ask me about **Java, Spring Boot, MySQL**  
+- 📫 Reach me: pkarthikprasanna7@gmail.com  
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
 
 ---
 
-```yaml
-name    : Karthik Prasanna
-status  : final year · open to opportunities
-focus   : Java · Spring Boot · REST APIs · MySQL
-learning: software development · system design · clean code
-contact : pkarthikprasanna7@gmail.com
-```
 
----
-
-### languages
-
-```
-Java     ████████████████░░░░   strong
-Python   ████████░░░░░░░░░░░░   learning
-```
-
-### backend
-
-```
-Spring Boot  ──  REST APIs  ──  MySQL
-```
-
-### tools
-
-```
-Git   ·   Postman   ·   Swagger   ·   IntelliJ IDEA
-```
-
----
-
-### github stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikprasanna07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikprasanna07&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=karthikprasanna07&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikprasanna07&theme=tokyonight" />
 </p>
 
 ---
 
-### connect
+## 🎥 Coding Vibes (GIF Section)
 
-[linkedin](https://linkedin.com/in/karthik-prasanna7) &nbsp;·&nbsp; [github](https://github.com/karthikprasanna07) &nbsp;·&nbsp; [email](mailto:pkarthikprasanna7@gmail.com)
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+</p>
 
 ---
 
-<div align="center">
-  <sub><code>always learning · always building</code></sub>
-</div>
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/karthik-prasanna7  
+- 💻 GitHub: https://github.com/karthikprasanna07  
+- 📧 Email: pkarthikprasanna7@gmail.com  
+
+---
